@@ -3,7 +3,7 @@ Maxpay payment module for Opencart 3.0 or higher.
 ### Installation
 
 * Backup your webstore and database
-* Upload the module file opencart-3-maxpay-payment-module.ocmod.zip via _Extensions_ -> _Extension Installer_
+* Upload the module file maxpay.ocmod.zip via _Extensions_ -> _Extension Installer_
 * Activate the module in payment extensions (_Extensions_ -> _Payments_)
 * Configure the module settings:
     * Public key
